@@ -1,0 +1,6 @@
+framework module Pods_ExSequencePermission {
+  umbrella header "Pods-ExSequencePermission-umbrella.h"
+
+  export *
+  module * { export * }
+}
